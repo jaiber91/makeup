@@ -1,0 +1,55 @@
+.head-container{
+    width: 100%;
+    height: 115px;
+    background-color: #962671;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.makeup-logo{
+    padding-left: 71px;
+    img{
+        width: 140px;
+        height: 115px;
+    }
+}
+
+.makeup-menu{
+    width: 732px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.makeup-menu__list{
+    ul{
+        display: flex;
+        
+    }
+    li{
+        margin-left: 12px;
+        list-style: none;
+        font-size: 24px;
+        font-weight: 400;
+    }
+    a{
+        color: #fff;
+        text-decoration: none;
+    }
+}
+
+.makeup-icon__kart{
+    margin-right: 59px;
+    img{
+        width: 45px;
+        height: 43px;
+    }
+}
+
+
+
+
+
+
+
