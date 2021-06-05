@@ -1,0 +1,47 @@
+.head-container {
+  width: 100%;
+  height: 115px;
+  background-color: #962671;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+
+.makeup-logo {
+  padding-left: 71px;
+}
+.makeup-logo img {
+  width: 140px;
+  height: 115px;
+}
+
+.makeup-menu {
+  width: 732px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.makeup-menu__list ul {
+  display: flex;
+}
+.makeup-menu__list li {
+  margin-left: 12px;
+  list-style: none;
+  font-size: 24px;
+  font-weight: 400;
+}
+.makeup-menu__list a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.makeup-icon__kart {
+  margin-right: 59px;
+}
+.makeup-icon__kart img {
+  width: 45px;
+  height: 43px;
+}
+
+/*# sourceMappingURL=header.css.map */
